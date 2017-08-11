@@ -16,3 +16,9 @@ release
 .DS_Store
 *.syso
 coverage.txt
+.snap
+*.tar.bz2
+parts/
+prime/
+snap/.snapcraft/
+stage/
